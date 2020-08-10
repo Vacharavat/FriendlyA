@@ -1,4 +1,5 @@
 # FriendlyA
+ชื่อทีม FriendlyA เป็นทีมพัฒนา Sevice ในรายวิชา Service-Oriented Programming (SOP)
 ## Product Name
 - ยังไม่มี
 
